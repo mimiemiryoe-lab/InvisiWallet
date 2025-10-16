@@ -214,8 +214,8 @@ npm run build && npm run preview
 ---
 
 ## Supabase Schema (minimum)
-  refer - supabase_migration_invisible_wallets.sql & 
-supabase_tables.txt
+- `refer - supabase_migration_invisible_wallets.sql & 
+supabase_tables.txt`
 ---
 
 ## Where things live
