@@ -271,7 +271,6 @@ const Send = () => {
           <div className="mb-6 p-4 bg-gradient-to-br from-purple-600/20 to-indigo-600/20 rounded-lg border border-purple-500/30">
             <div className="text-sm text-purple-300 mb-2">Your Balance</div>
             <div className="flex items-center gap-3">
-              <div className="text-2xl font-semibold text-white">{privacyEnabled ? "$••••" : `$${appBalance.toFixed(2)}`}</div>
               {onchainBalanceUSD && (
                 <div className="text-lg text-purple-200">{privacyEnabled ? "≈ $••••" : `≈ $${onchainBalanceUSD} USD`}</div>
               )}
