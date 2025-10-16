@@ -238,17 +238,6 @@ supabase_tables.txt
 
 ---
 
-## Hackathon Readiness Checklist
-- [x] Public GitHub repo with this README
-- [x] Demonstrates progress during hackathon window
-- [x] Working UI with send/request flows
-- [x] Starknet wallet connect and on‑chain send (records `tx_hash`)
-- [x] ChiPay fallback flow with reference (`tx_<id>`) and off‑chain record
-- [x] Clear setup instructions and environment variables
-- [x] Privacy mode showcase
-
----
-
 ## License
 MIT
  
