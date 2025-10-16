@@ -1,0 +1,13 @@
+Node.js >= 18
+npm >= 10 (or pnpm >= 9 or Bun >= 1.1)
+Vite >= 5
+TypeScript >= 5.6
+ESLint >= 9
+Tailwind CSS >= 3
+PostCSS >= 8
+
+Frontend dependencies are managed via package.json and installed with:
+
+npm install
+
+No Python packages required.
